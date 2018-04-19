@@ -1,4 +1,4 @@
-package incorrect.srp;
+package srp;
 
 public class WateringCan {
 

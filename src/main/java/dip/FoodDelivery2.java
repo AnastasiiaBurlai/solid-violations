@@ -1,4 +1,4 @@
-package incorrect.dip;
+package dip;
 
 //this is to illustrate the changes
 public class FoodDelivery2 {

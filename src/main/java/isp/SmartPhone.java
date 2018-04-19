@@ -1,4 +1,4 @@
-package incorrect.isp;
+package isp;
 
 //for smartphone it is ok - it can do both
 public class SmartPhone implements HasCamera {

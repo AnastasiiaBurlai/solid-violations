@@ -1,4 +1,4 @@
-package incorrect.lsp;
+package lsp;
 
 import java.util.Arrays;
 

@@ -1,4 +1,4 @@
-package incorrect.dip;
+package dip;
 
 public class Bike {
 

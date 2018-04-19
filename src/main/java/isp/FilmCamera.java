@@ -1,4 +1,4 @@
-package incorrect.isp;
+package isp;
 
 //film camera can't record videos
 public class FilmCamera implements HasCamera {

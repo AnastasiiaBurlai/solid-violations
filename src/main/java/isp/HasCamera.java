@@ -1,4 +1,4 @@
-package incorrect.isp;
+package isp;
 
 //lets ruin ISP
 //we suppose that if device has camera, it is able to take pictures and videos,

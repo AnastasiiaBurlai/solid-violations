@@ -1,4 +1,4 @@
-package incorrect.srp;
+package srp;
 
 //lets ruin SRP
 //Flower can grow, blossom, but it cannot water itself

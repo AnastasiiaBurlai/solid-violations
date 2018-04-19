@@ -1,7 +1,5 @@
-package incorrect.lsp;
+package lsp;
 
-import java.awt.*;
-import java.io.IOException;
 import java.net.URI;
 
 //lets ruin LSP

@@ -1,4 +1,4 @@
-package incorrect.isp;
+package isp;
 
 //action camera can't take pictures
 public class ActionCamera implements HasCamera{

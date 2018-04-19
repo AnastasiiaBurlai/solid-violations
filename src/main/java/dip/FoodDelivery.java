@@ -1,4 +1,4 @@
-package incorrect.dip;
+package dip;
 
 //lets ruin DIP
 //for example, for now we are delivering only pizzas, driving on a bike
